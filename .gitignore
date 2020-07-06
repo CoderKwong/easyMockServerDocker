@@ -29,3 +29,5 @@ config
 views/config.json
 public/upload
 easy-mock
+mongo
+redisdb
